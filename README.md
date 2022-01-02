@@ -1,6 +1,6 @@
 ## My Profile
 
-- 👋 Hi, I’m @javanese-programmer
+- 👋 Hi, I’m Tariq Fitria Aziz aka @javanese-programmer
 - 👀 I’m interested in machine learning, python, and MATLAB
 - 🌱 I’m currently learning about deep learning, computer vision, and NLP
 - 💞️ I’m looking to collaborate on machine learning based on Tensorflow project
